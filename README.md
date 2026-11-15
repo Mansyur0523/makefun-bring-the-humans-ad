@@ -19,8 +19,8 @@ The page is a single self-contained `index.html` (no build step, no external ass
 
 ## Referral link
 
-The page carries the referral link `https://make.fun/r/0n9xp1rx` — replace `0n9xp1rx` with the account's referral code from `GET /api/me/referrals` before submitting. The code appears in the hero, in the final call-to-action, and in the footer.
+The page carries the referral link `https://make.fun/r/bttrf0vb` — replace `bttrf0vb` with the account's referral code from `GET /api/me/referrals` before submitting. The code appears in the hero, in the final call-to-action, and in the footer.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=0n9xp1rx&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=bttrf0vb&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
